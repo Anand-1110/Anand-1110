@@ -1,18 +1,155 @@
-# 💫 About Me:
-I am Anand Chaurasia 4th year btech cse student<br>Languagess: Java, C, SQL, JavaScript, HTML, CSS, Shell (Bash)<br>Cloud & DevOps: AWS (EC2, ECS, EKS, S3, IAM, VPC, Elastic Load Balancing, CloudWatch), Terraform, Docker,<br>Kubernetes (EKS), Helm, Nginx<br>CI/CD, GitOps & Security: GitHub Actions, AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, Argo CD, Trivy,<br>tfsec, Terratest, Sealed Secrets<br>Operating Systems: Linux (Ubuntu, Amazon Linux)<br>Developer Tools: Git, VS Code, PyCharm, Postman
+<div align="center">
 
+# Hi 👋, I'm Anand Chaurasia
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anand-chaurasia-ac1110) 
+### 🚀 Learning • Building • Automating | DevOps & Cloud Engineer in the Making
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Anand-1110&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Anand-1110&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anand-1110&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Java | AWS | Terraform | Docker | Kubernetes | DevSecOps
+
+![](https://komarev.com/ghpvc/?username=Anand-1110\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Anand-1110&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🎓 4th Year B.Tech CSE Student at Silicon University, Bhubaneswar
+
+☁️ Passionate about Cloud Computing, DevOps, Infrastructure Automation, and Platform Engineering
+
+🚀 Experienced in building CI/CD pipelines, Infrastructure as Code (IaC), containerized applications, and GitOps workflows
+
+🔒 Interested in DevSecOps practices including Terraform Security Scanning, Container Security, and Kubernetes Security
+
+🌱 Currently learning Advanced Kubernetes, Helm, Argo CD, and Cloud-Native Technologies
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anand-chaurasia-ac1110)
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+
+---
+
+## Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+### AWS Services
+
+* EC2
+* ECS
+* EKS
+* S3
+* IAM
+* VPC
+* Elastic Load Balancer
+* CloudWatch
+
+---
+
+## CI/CD • GitOps • Security
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge\&logo=terraform\&logoColor=white)
+
+* AWS CodePipeline
+* AWS CodeBuild
+* AWS CodeDeploy
+* Trivy
+* tfsec
+* Terratest
+* Sealed Secrets
+
+---
+
+## Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+* Ubuntu Linux
+* Amazon Linux
+
+---
+
+## Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### ☁️ AWS ECS CI/CD Pipeline using Terraform
+
+* Infrastructure as Code using Terraform
+* Amazon ECS Fargate Deployment
+* Dockerized Application
+* Amazon ECR Integration
+* GitHub Actions Automation
+
+### 🔒 DevSecOps Pipeline
+
+* GitHub Actions
+* tfsec Security Scanning
+* Trivy Container Scanning
+* Sealed Secrets
+* Automated Security Checks
+
+### ☸️ Kubernetes on AWS EKS
+
+* Helm Charts
+* Argo CD GitOps
+* Kubernetes Deployments
+* Ingress & Load Balancer
+* Monitoring & Observability
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Anand-1110\&show_icons=true\&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anand-1110\&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand-1110\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Anand-1110\&theme=onedark\&margin-w=15)
+
+---
+
+### ⚡ Quote
+
+> "Automate everything that is repetitive."
+
+---
+
+⭐ If you like my projects, consider starring them!
