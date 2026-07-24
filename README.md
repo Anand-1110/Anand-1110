@@ -4,7 +4,7 @@
 
 ### 🚀 Learning • Building • Automating | DevOps & Cloud Engineer in the Making
 
-### Java | AWS | Terraform | Docker | Kubernetes | DevSecOps
+### Java | AWS | Azure | Docker | Kubernetes | DevSecOps
 
 ![](https://komarev.com/ghpvc/?username=Anand-1110\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
